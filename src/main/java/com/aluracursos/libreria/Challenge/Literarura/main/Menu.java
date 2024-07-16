@@ -46,8 +46,8 @@ public class Menu {
                 System.out.println("------------------------------------------------------------------\n");
                 var menu = """
                         1 - Buscar libro por titulo
-                        2 - Listar libros por idioma
-                        3 - Filtrar libros registrados
+                        2 - Filtrar libros por idioma
+                        3 - Listar libros registrados
                         4 - Filtrar autores registrados
                         5 - Filtrar autores vivos por un año determinado
                         0 - Salir
